@@ -1,0 +1,4 @@
+
+article>body>:nth-child(4){
+    color:crimson
+}
